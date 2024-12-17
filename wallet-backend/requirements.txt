@@ -1,0 +1,15 @@
+flask==2.3.3
+flask-sqlalchemy==3.1.1
+flask-migrate==4.0.5
+flask-cors==4.0.0
+flask-jwt-extended==4.5.3
+python-dotenv==1.0.0
+psycopg2-binary==2.9.9
+bcrypt==4.0.1
+email-validator==2.1.0.post1
+phonenumbers==8.13.24
+python-dateutil==2.8.2
+twilio==8.10.0
+sendgrid==6.10.0
+mysqlclient==2.2.0
+pymysql==1.1.0 
